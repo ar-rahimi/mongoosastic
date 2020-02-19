@@ -19,7 +19,7 @@ Mongoosastic is a [mongoose](http://mongoosejs.com/) plugin that can automatical
 1. Install the package
 
 ```bash
-npm install -S mongoosastic
+npm install -S mongoosastic-ir
 ```
 
 2. Setup your mongoose model to use the plugin
